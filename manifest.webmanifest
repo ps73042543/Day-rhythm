@@ -1,0 +1,12 @@
+{
+  "name": "Day Rhythm",
+  "short_name": "Rhythm",
+  "description": "Log the shape of your day.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F1216",
+  "theme_color": "#0F1216",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

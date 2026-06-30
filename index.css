@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; margin: 0; }
+body { background: #0F1216; -webkit-font-smoothing: antialiased; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
